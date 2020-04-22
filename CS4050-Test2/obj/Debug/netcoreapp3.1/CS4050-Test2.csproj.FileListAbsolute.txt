@@ -1,0 +1,13 @@
+D:\CS4050\CS4050-Test2\CS4050-Test2\bin\Debug\netcoreapp3.1\CS4050-Test2.exe
+D:\CS4050\CS4050-Test2\CS4050-Test2\bin\Debug\netcoreapp3.1\CS4050-Test2.deps.json
+D:\CS4050\CS4050-Test2\CS4050-Test2\bin\Debug\netcoreapp3.1\CS4050-Test2.runtimeconfig.json
+D:\CS4050\CS4050-Test2\CS4050-Test2\bin\Debug\netcoreapp3.1\CS4050-Test2.runtimeconfig.dev.json
+D:\CS4050\CS4050-Test2\CS4050-Test2\bin\Debug\netcoreapp3.1\CS4050-Test2.dll
+D:\CS4050\CS4050-Test2\CS4050-Test2\bin\Debug\netcoreapp3.1\CS4050-Test2.pdb
+D:\CS4050\CS4050-Test2\CS4050-Test2\obj\Debug\netcoreapp3.1\CS4050-Test2.csprojAssemblyReference.cache
+D:\CS4050\CS4050-Test2\CS4050-Test2\obj\Debug\netcoreapp3.1\CS4050-Test2.csproj.CoreCompileInputs.cache
+D:\CS4050\CS4050-Test2\CS4050-Test2\obj\Debug\netcoreapp3.1\CS4050-Test2.AssemblyInfoInputs.cache
+D:\CS4050\CS4050-Test2\CS4050-Test2\obj\Debug\netcoreapp3.1\CS4050-Test2.AssemblyInfo.cs
+D:\CS4050\CS4050-Test2\CS4050-Test2\obj\Debug\netcoreapp3.1\CS4050-Test2.dll
+D:\CS4050\CS4050-Test2\CS4050-Test2\obj\Debug\netcoreapp3.1\CS4050-Test2.pdb
+D:\CS4050\CS4050-Test2\CS4050-Test2\obj\Debug\netcoreapp3.1\CS4050-Test2.genruntimeconfig.cache
